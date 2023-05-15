@@ -8,6 +8,8 @@ For this specific program the Haar Cascade Classifiers need to be downloaded bef
 In order to implement the face detection in an image,follow the given steps:- STEP 1-Download the attached code. STEP 2-Open the terminal and activate the virtual environment you have created. STEP 3-Run the following command:
 
 python "File Name.py"
+--
+
 Shown below is the face detection in an image.
 
 ORIGINAL IMAGE
