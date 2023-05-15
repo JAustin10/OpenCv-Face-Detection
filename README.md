@@ -5,7 +5,7 @@ Taking into account the diversity of human features,it can be seen a lot of deve
 
 For this specific program the Haar Cascade Classifiers need to be downloaded before running the above code and it has to be saved in the same folder as the code.
 
-In order to implement the face detection in an image,follow the steps given as follows:- STEP 1-Download the attached code. STEP 2-Open the terminal and activate the virtual environment you have created. STEP 3-Run the following command:
+In order to implement the face detection in an image,follow the given steps:- STEP 1-Download the attached code. STEP 2-Open the terminal and activate the virtual environment you have created. STEP 3-Run the following command:
 
 python "File Name.py"
 Shown below is the face detection in an image.
